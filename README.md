@@ -15,9 +15,6 @@ Convert UI design images to HTML/CSS code using Google's Gemini AI.
 - 📱 Fully responsive design
 - ⚡ Built with Vite for fast development
 
-## 🚀 Live Demo
-
-[View Live Demo](https://yourusername.github.io/image-to-code/)
 
 ## 🛠️ Tech Stack
 
@@ -27,9 +24,3 @@ Convert UI design images to HTML/CSS code using Google's Gemini AI.
 - **Icons**: React Icons
 - **Build Tool**: Vite
 
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/image-to-code.git
-cd image-to-code
