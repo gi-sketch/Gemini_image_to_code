@@ -1,0 +1,13 @@
+.gutter {
+  background-color: #1f2937;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+.gutter:hover {
+  background-color: #3b82f6;
+}
+
+.gutter.gutter-horizontal {
+  cursor: col-resize;
+}
